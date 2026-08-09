@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "7228f93cf13cea42",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7de85d948cf5243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9885f49063b7a15",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/welcome pack.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "welcome pack"
+            }
+          },
+          {
+            "id": "274fa80be08c084b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance (annual).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Finance (annual)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17accac87642bb10",
+    "type": "split",
+    "children": [
+      {
+        "id": "61291d1c6b7b385d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b9f50c45a40a0f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0be7bc268ccc78e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2e03c4fb17e19b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fdd79606d2133aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "720945d8059f8f59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e16eebea6d2ce0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "45f201a1b50e3da1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "53768cd7dc9b538d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3ab4fe2048ded37",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1c7b9806a626ca1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d9885f49063b7a15",
+  "lastOpenFiles": [
+    "Pascal School - Overview.md",
+    "Finance (annual).md",
+    "Pascal School - Action List.md",
+    "Untitled.md",
+    "files/bus service.pdf",
+    "files/BUS SERVICE 2026-27.pdf",
+    "files/welcome pack.pdf",
+    "files/uniform.pdf",
+    "files/navigation.pdf",
+    "files/NAVIGATION PACK 2026-27.pdf",
+    "files/WELCOME PACK (2026-27).pdf",
+    "files/uniform_proces.pdf",
+    "files/email/260710_letterFromPascal_Uniform.pdf",
+    "files/email"
+  ]
+}
