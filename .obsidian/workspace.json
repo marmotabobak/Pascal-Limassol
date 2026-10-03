@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7de85d948cf5243",
+        "id": "5d40be0ec411f622",
         "type": "tabs",
         "children": [
           {
-            "id": "d9885f49063b7a15",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "files/welcome pack.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "welcome pack"
-            }
-          },
-          {
-            "id": "274fa80be08c084b",
+            "id": "1c39e7e6b892edcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance (annual).md",
+                "file": "edu portal/messages/STEPHANOU ANDREAS/2026-10-03 16-30 Stephanou Andreas - Maths material 2.4-2.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finance (annual)"
+              "title": "2026-10-03 16-30 Stephanou Andreas - Maths material 2.4-2.5"
             }
           }
         ]
@@ -192,21 +180,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "d9885f49063b7a15",
+  "active": "1c39e7e6b892edcf",
   "lastOpenFiles": [
+    "edu portal/messages/STAVROU PANAYIOTIS/2026-09-11 19-03 Stavrou Panayiotis - Art introduction and materials list.md",
+    "edu portal/messages/STAVROU PANAYIOTIS/2026-09-13 09-16 Stavrou Panayiotis - Sketchbook payment at school.md",
+    "edu portal/messages/STAVROU PANAYIOTIS/2026-09-28 00-05 Stavrou Panayiotis - Dialog Makar sick, absence.md",
+    "edu portal/messages/STEPHANOU ANDREAS/2026-10-02 11-46 Stephanou Andreas - Maths lesson and homework.md",
+    "edu portal/messages/ELIA MARINA/2026-09-08 12-36 Elia Marina - Induction Day welcome.md",
+    "edu portal/messages/ELIA MARINA",
+    "edu portal/messages/PAPAEVRIPIDOU MARIA/2026-09-16 15-26 Papaevripidou Maria - Science homework workbook p3.md",
+    "edu portal/messages/PAPAEVRIPIDOU MARIA/2026-09-14 22-08 Papaevripidou Maria - Science book and workbook pages.md",
+    "edu portal/messages/PAPAEVRIPIDOU MARIA",
+    "edu portal/messages/STAVROU PANAYIOTIS",
+    "edu portal/messages/STEPHANOU ANDREAS/2026-10-03 16-30 Stephanou Andreas - Maths material 2.4-2.5.md",
+    "edu portal/messages/ARISTIDOU ELENA/2026-09-19 18-46 Aristidou Elena - History introduction and expectations.md",
+    "edu portal/messages/MARTIDOU PANNY/2026-10-01 19-22 Martidou Panny - Homework diary, timetable, PE uniform.md",
+    "edu portal/messages/MARTIDOU PANNY/Untitled.md",
+    "edu portal/messages/CHRISTODOULIDOU THALIA/2026-10-01 12-08 Christodoulidou Thalia - Art sketchbooks and materials.md",
+    "edu portal/messages/CHRISTODOULIDOU THALIA",
+    "edu portal/messages/MARTIDOU PANNY/2026-09-14 11-23 Martidou Panny - Homework diary and MRS GREN.md",
+    "edu portal/messages/MARTIDOU PANNY/2026-09-14 19-04 Martidou Panny - Env Science book pages 1-5.md",
+    "edu portal/messages/MARTIDOU PANNY/2026-09-25 14-02 Martidou Panny - Env Science book p6 and revision guide.md",
+    "edu portal/messages/MARTIDOU PANNY/2026-09-30 23-11 Martidou Panny - Env Science Test 1 revision guide key.md",
+    "edu portal/messages/ARISTIDOU ELENA/2026-09-27 18-46 Aristidou Elena - History handout completed, next chapter.md",
+    "edu portal/messages/ARISTIDOU ELENA/2026-10-01 23-17 Aristidou Elena - History homework p15.md",
+    "edu portal/messages/ARISTIDOU ELENA",
+    "edu portal/messages/HILLIDES EMILIA/2026-09-18 10-15 Hillides Emilia - Drama play audition.md",
+    "edu portal/messages/HILLIDES EMILIA/2026-10-02 09-00 Hillides Emilia - Drama Fish p6-8.md",
+    "edu portal/messages/HILLIDES EMILIA",
+    "edu portal/messages/STEPHANOU ANDREAS",
+    "files/extended day.pdf",
+    "edu portal/messages/MARTIDOU PANNY",
+    "edu portal/messages",
     "Pascal School - Overview.md",
     "Finance (annual).md",
     "Pascal School - Action List.md",
-    "Untitled.md",
-    "files/bus service.pdf",
-    "files/BUS SERVICE 2026-27.pdf",
-    "files/welcome pack.pdf",
-    "files/uniform.pdf",
-    "files/navigation.pdf",
-    "files/NAVIGATION PACK 2026-27.pdf",
-    "files/WELCOME PACK (2026-27).pdf",
-    "files/uniform_proces.pdf",
-    "files/email/260710_letterFromPascal_Uniform.pdf",
-    "files/email"
+    "Untitled.md"
   ]
 }

@@ -99,11 +99,6 @@ All prices include 19% VAT. Manufactured in Greece, EU chemical safety standards
 
 ---
 
-→ See [[Pascal School - Action List]] for the full checklist of things to do.  
-→ See [[Finance (annual)]] for cost breakdown (uniform, catering, lockers).
-
----
-
 ## Transport Registration (2026–2027)
 
 **Form:** [PASCAL Transport Registration Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdRD3A_AFrIL8LvTGpzfxabS8QG8Qgl2epp7NUt1gbzBP5kCw/viewform)  
