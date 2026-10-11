@@ -1,0 +1,60 @@
+---
+title: Коммуникация, портал и формы
+tags: [pascal, kb, communication, 4schools, forms]
+updated: 2026-10-11
+---
+# 13 · Коммуникация, портал 4Schools и формы
+
+> Источники: Navigation Pack §3 ([[Messages/mail/attachments/NAVIGATION PACK 2026-27.pdf|NAVIGATION PACK 2026-27.pdf]]), Welcome Pack ([[Messages/mail/attachments/WELCOME PACK (2026-27).pdf|WELCOME PACK (2026-27).pdf]]), все уведомления 4Schools и письма в `Messages/mail`. Часть [[00 README - Knowledge Base Index|базы знаний]]. **Пароль от портала, присланный по e-mail 8 сентября 2026 ([[Messages/mail/2026-09-08 Account URVANTSEV IGOR|2026-09-08 Account URVANTSEV IGOR]]), намеренно не скопирован; он был отправлен открытым текстом — смените его.**
+
+## 1. Каналы связи
+| Канал | Назначение |
+|---|---|
+| **4Schools / edu4schools** — https://www.edu4schools.com (страница входа `…/Account/Login?schoolId=6178`; сброс пароля `…/Account/ForgotPassword`) | Календарь, школьные новости, **письма/циркуляры («useful documents», полезные документы)**, вложения от учителей, **финансы (Tuition & Fees Card)**, **пропуски**, **расписание ребёнка**, прямые **сообщения родителей и учителей**. Логин = e-mail родителя (igor.urvantsev@gmail.com); учётная запись автоматически активирована на новый год; пароль можно менять в любое время. Облачная платформа ΕΠΑΦΟΣ (epafos.gr). |
+| E-mail-уведомления с **4schools-info@epafos.gr** | Дублируют сообщения портала; **отвечать можно только на adminlem@pascal.ac.cy** (не на адрес отправителя). |
+| Сообщения учителям | Через 4Schools; **ответ может занять до 48 часов**; не для срочных вопросов. Срочно — позвонить в School Office и оставить сообщение (22 509 400). Учителя также публикуют напоминания о домашнем задании и файлы. |
+| School Office (канцелярия) | adminlem@pascal.ac.cy · 22 509 400/401 |
+| Сайт / соцсети | www.pascal.ac.cy; страницы в Facebook и Instagram |
+| Рассылка библиотеки | Рассылка «Pascal International Education Library – Limassol» за сентябрь/октябрь (ссылка на Microsoft Sway в письме от 11 сентября, [[Messages/mail/2026-09-11 Librarys' Newsletter|2026-09-11 Librarys' Newsletter]]) |
+| Letters to Parents (письма родителям; нумерованная серия 2026-27) | no. 1 форма (10 июля) · no. 2 автобус (14 июля) · no. 3 продлённый день (3 августа) · no. 4 заказ книг (8 сентября) · no. 8 пропуски/уход из школы (30 сентября) — номера 5–7 в почтовом ящике не обнаружены (вероятно, отправлялись только через 4Schools) |
+
+## 2. Хронология школьных сообщений в почтовом ящике (цикл 2026-27)
+| Дата | Сообщение |
+|---|---|
+| 15 июля | Регистрация на автобус ([[Messages/mail/2026-07-15 School Bus Service Registration for Academic Year 2026–2027|2026-07-15 School Bus Service Registration for Academic Year 2026–2027]]) |
+| 20 июля | Напоминания: форма и прайс-лист ([[Messages/mail/2026-07-20 KIND REMINDER - PSS UNIFORM & PRICE LIST 2026-27|2026-07-20 KIND REMINDER - PSS UNIFORM & PRICE LIST 2026-27]]); **Welcome Pack и Navigation Pack** ([[Messages/mail/2026-07-20 REMINDER - Welcome Pack and Important Information for the 2026 2027|2026-07-20 REMINDER - Welcome Pack and Important Information for the 2026 2027]]); автобус ([[Messages/mail/2026-07-20 REMINDER - School Bus Service Registration for 2026–2027|2026-07-20 REMINDER - School Bus Service Registration for 2026–2027]]) |
+| 3 августа | Необязательная программа Extended Day (продлённый день) ([[Messages/mail/2026-08-03 OPTIONAL EXTENDED DAY PROGRAMME 2026-27|2026-08-03 OPTIONAL EXTENDED DAY PROGRAMME 2026-27]]) |
+| 19 августа | Письмо о платформе для книг ([[Messages/mail/2026-08-19 PSS 26 27 SCHOOL BOOKS (SECONDARY LEMESOS MAIN)|2026-08-19 PSS 26 27 SCHOOL BOOKS (SECONDARY LEMESOS MAIN)]]) |
+| 28 августа | Меню обедов ([[Messages/mail/2026-08-28 PSS LUNCH MENU 2026-27|2026-08-28 PSS LUNCH MENU 2026-27]]) |
+| 31 августа | Tuition & Fees Card ([[Messages/mail/2026-08-31 Tuition & Fees Card|2026-08-31 Tuition & Fees Card]]); меню завтраков ([[Messages/mail/2026-08-31 PSS BREAKFAST MENU 2026-27|2026-08-31 PSS BREAKFAST MENU 2026-27]]) |
+| 4 сентября | Календарь учеников ([[Messages/mail/2026-09-04 PSS PUPILS' CALENDAR 2026-2027|2026-09-04 PSS PUPILS' CALENDAR 2026-2027]]) |
+| 8 сентября | Создана учётная запись ([[Messages/mail/2026-09-08 Account URVANTSEV IGOR|2026-09-08 Account URVANTSEV IGOR]]); приветствие от House Coordinator ([[Messages/mail/2026-09-08 Elias Marina - portal notification|2026-09-08 Elias Marina - portal notification]]); обновление по заказу книг ([[Messages/mail/2026-09-08 IMPORTANT UPDATE REGARDING BOOK ORDERS AND START OF THE ACADEMIC YEAR|2026-09-08 IMPORTANT UPDATE REGARDING BOOK ORDERS AND START OF THE ACADEMIC YEAR]]) |
+| 9 сентября | Расписание ученика ([[Messages/mail/2026-09-09 PSS STUDENT TIMETABLE 2026-27|2026-09-09 PSS STUDENT TIMETABLE 2026-27]]); два уведомления «Welcome to the New Academic Year» ([[Messages/mail/2026-09-09 Welcome to the New Academic Year 2026–2027|2026-09-09 Welcome to the New Academic Year 2026–2027]], [[Messages/mail/2026-09-09 Welcome to the New Academic Year 2026–2027 1537|2026-09-09 Welcome to the New Academic Year 2026–2027 1537]]) |
+| 10 сентября | Приглашение Come & Play ([[Messages/mail/2026-09-10 Come & Play Event Invitation - Distribution to Existing Families|2026-09-10 Come & Play Event Invitation - Distribution to Existing Families]]) |
+| 11 сентября | Рассылка библиотеки; обновление по поддержке Y4–6 ([[Messages/mail/2026-09-11 Update Regarding Homework and Academic Support – Years 4, 5 and 6|2026-09-11 Update Regarding Homework and Academic Support – Years 4, 5 and 6]]); материалы для Art ([[Messages/mail/2026-09-11 Stavrou Panayiotis - portal notification|2026-09-11 Stavrou Panayiotis - portal notification]]) |
+| 15 сентября | Тесты A' Semester 1B ([[Messages/mail/2026-09-15 PSS Tests A Semester Y1B 2026-27|2026-09-15 PSS Tests A Semester Y1B 2026-27]]) |
+| 16 сентября | Справочник «Учителя/предметы/классы» + напоминание о Welcome evening ([[Messages/mail/2026-09-16 Academic Year 2026 - 2027 Teachers, Subjects, Classes|2026-09-16 Academic Year 2026 - 2027 Teachers, Subjects, Classes]]) |
+| 21 сентября | Две Tuition & Fees Card ([[Messages/mail/2026-09-21 Tuition & Fees Card|2026-09-21 Tuition & Fees Card]], [[Messages/mail/2026-09-21 Tuition & Fees Card 0804|2026-09-21 Tuition & Fees Card 0804]]) |
+| 24 сентября | Welcome Survey для новых учеников ([[Messages/mail/2026-09-24 WELCOME SURVEY - NEW PUPILS|2026-09-24 WELCOME SURVEY - NEW PUPILS]]) |
+| 25 сентября – 3 октября | Сообщения учителей (Martidou, Aristidou, Hillides, Stephanou, Christodoulidou) |
+| 28 сентября | Обновление по заказам книг ([[Messages/mail/2026-09-28 IMPORTANT UPDATES – BOOK ORDERS|2026-09-28 IMPORTANT UPDATES – BOOK ORDERS]]) |
+| 30 сентября | Пропуски и уход из школы ([[Messages/mail/2026-09-30 STUDENT ABSENCES AND DEPARTURE FROM SCHOOL|2026-09-30 STUDENT ABSENCES AND DEPARTURE FROM SCHOOL]]); Club Handbook ([[Messages/mail/2026-09-30 PSS CLUB HANDBOOK 2026-27|2026-09-30 PSS CLUB HANDBOOK 2026-27]]) |
+| 2–3 октября | Напоминания о Club Handbook; напоминание о формах Welcome Pack ([[Messages/mail/2026-10-03 Completion and Submission of Welcome Pack Forms|2026-10-03 Completion and Submission of Welcome Pack Forms]]); письмо № 9/26-27 о первой школьной поездке Year 1 (Pafos Zoo, 6 окт) — [[Messages/mail/2026-10-03 First School Trip - Year 1 Pafos Zoo|2026-10-03 First School Trip - Year 1 Pafos Zoo]] |
+| 4–8 октября | 4 окт: Form Teacher просит выбор обеда для поездки в Pafos Zoo ([[Messages/mail/2026-10-04 Stavrou Panayiotis - portal notification|2026-10-04 Stavrou Panayiotis - portal notification]]; ответ родителя [[Messages/mail/2026-10-04 Re Message notification|2026-10-04 Re Message notification]]); 5 окт: письмо № 11/26-27 о First Charity (Non-Uniform) Day 7 окт ([[Messages/mail/2026-10-05 First Charity (Non-Uniform) Day|2026-10-05 First Charity (Non-Uniform) Day]]) и регистрация на Regional Mathematics Competition ([[Messages/mail/2026-10-05 Stephanou Andreas - portal notification|2026-10-05 Stephanou Andreas - portal notification]]); 7 окт: повторение к тесту по History ([[Messages/mail/2026-10-07 Aristidou Elena - portal notification|2026-10-07 Aristidou Elena - portal notification]]); 8 окт: Science ДЗ стр. 10–11 ([[Messages/mail/2026-10-08 Papaevripidou Maria - portal notification|2026-10-08 Papaevripidou Maria - portal notification]]), напоминание об Art-материалах ([[Messages/mail/2026-10-08 Stavrou Panayiotis - portal notification|2026-10-08 Stavrou Panayiotis - portal notification]]), «Academic Support Changes» ([[Messages/mail/2026-10-08 Academic Support Changes|2026-10-08 Academic Support Changes]]), уроки плавания 1B ([[Messages/mail/2026-10-08 Swimming Lessons 2026 - Year 1B|2026-10-08 Swimming Lessons 2026 - Year 1B]]) |
+
+## 3. Чек-лист Welcome Pack (статус)
+Возвращён в школу 9 августа 2026 и подтверждён 10 августа («Well received»): заполненный Welcome Pack (информация об ученике, медицинские данные, согласие на первую помощь, Behavioural Contract, форма на шкафчик (если приложена), заявка на питание, согласие психолога — содержание в подписанном PDF). Тем не менее 3 октября школа просит всех родителей, которые *ещё не сдали* документы, сделать это до **пн, 5 октября** — **уточните в канцелярии, что пакет Макара, включая подписи Head of Year и ученика на Behavioural Contract, полностью оформлен** ([[17 Open Items, Deadlines & Action Tracker]]). Содержание каждой формы: [[12 Health, Safety, Wellbeing & Absences]], [[06 Rules, Uniform & Lockers]], [[08 Catering, Menus & Canteen]].
+
+## 4. Опросы и обратная связь
+- **Welcome Survey (для новых учеников)** — ссылка на опрос Globeducate `survey.globeducate.com/s3/PASCAL-Lemesos-Welcome-Survey-26`; срок — **8 октября 2026**; необязательный запрос на обратную связь (сотрудник свяжется в течение пары рабочих дней). Отправлено Sotia Kyriacou 24 сентября; подпись Head Teacher в .docx ([[Messages/mail/attachments/WELCOME SURVEY - NEW PUPILS.docx|WELCOME SURVEY - NEW PUPILS.docx]]).
+- Отзывы из предыдущего опроса привели к письму с разъяснением по пропускам/уходу из школы (30 сентября).
+- Запланировано: **опрос родителей о платформе для книг до зимних каникул**.
+- **Parents Pulse Market Research** (28–30 сентября 2026): независимый исследователь (не школа) опросил Igor и Liza как родителей ученика Year 1 в Лимасоле; действий со стороны школы не требуется ([[Messages/mail/2026-09-28 Parents Pulse Market Research|2026-09-28 Parents Pulse Market Research]], [[Messages/mail/2026-09-30 Απ Parents Pulse Market Research|2026-09-30 Απ Parents Pulse Market Research]]).
+
+## 5. Induction Day (ср, 9 сентября) и Welcome Evening (ср, 16 сентября)
+- **Induction Day (день знакомства; Years 1 и 6): 08:00–10:00.** Прибыть к **07:45**, входить через **Gate 1** (ворота 1), сопровождение в **Amphitheatre**, знакомство с Head of Year (руководитель параллели), сесть со своим **House** (четыре House Masters держат цветные картонные таблички); надеть **футболку House** или форму для PE; взять **головной убор, солнцезащитный крем, бутылку с водой**. ([[Messages/edu portal/DONE/DONE Elia Marina 2026-09-08 12-36 Induction Day welcome|DONE 2026-09-08 Induction Day welcome]]).
+- **PSS Welcome Evening / собрание для родителей: ср, 16 сентября, 18:00 до ~20:15–20:30**; выборы Parents & Guardians Association (уточняется, ~20:15/20:30).
+- **Организация первого дня (уведомление от 9 сентября):** школа начинается в **07:45** — использовать боковые ворота, не Reception; заканчивается в **14:00**; до 15:45 остаются только ученики продлённого дня; автобусы и питание начинаются 10 сентября.
+
+## 6. Структура контактов родителей и учителей
+Классный руководитель (Stavrou) — по повседневным вопросам/пропускам; Head of Year (Martidou, G124, 22 509 426) — по вопросам Year 1; учителя-предметники — через сообщение в 4Schools; Assistant Head (Karavella, G115) — по раннему уходу; психолог (Pavlou); администратор (Kyriacou) — по питанию/формам; приём и финансы — через канцелярию. Родительские конференции: 18 ноября, 10 февраля (онлайн) — [[03 Calendar 2026-27]].
