@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "740a59941e92df49",
+        "id": "6571f9cf46d196a7",
         "type": "tabs",
         "children": [
           {
-            "id": "0c437312d5b2d378",
+            "id": "4d6526d680a89cca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
+                "file": "Messages/edu portal/attachments/Student_Test_Syllabus.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "icon": "lucide-file-text",
+              "title": "Student_Test_Syllabus"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 736.5086555480957
+    "width": 465.50271224975586
   },
   "right": {
     "id": "fdd79606d2133aae",
@@ -180,44 +178,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "0c437312d5b2d378",
+  "active": "9b9f50c45a40a0f6",
   "lastOpenFiles": [
-    "Messages/edu portal/Aristidou Elena 2026-10-07 23-53 History test 14 Oct revision.md",
-    "README.md",
-    "Messages/edu portal/Stephanou Andreas 2026-10-09 07-07 Mathematics Test Revision Worksheet 1.md",
-    "Messages/edu portal/Martidou Panny 2026-10-10 18-52 Env Science test Monday 12 Oct.md",
-    "Messages/edu portal/Papaevripidou Maria 2026-10-08 16-51 Chapter 7Ad Cells and homework.md",
-    "Messages/edu portal/Stephanou Andreas 2026-10-09 12-33 Maths lesson and homework (Ch 2.6).md",
-    "Messages/edu portal/Stephanou Andreas 2026-10-05 09-18 Regional Mathematics Competition Registration.md",
-    "Messages/edu portal/Stavrou Panayiotis 2026-10-08 17-38 Art materials reminder.md",
-    "Messages/edu portal/Stavrou Panayiotis 2026-10-04 14-30 Trip lunch preferences.md",
-    "Messages/edu portal/DONE/DONE Stephanou Andreas 2026-10-09 12-33 Maths lesson and homework (Ch 2.6).md",
-    "Messages/edu portal/DONE/DONE Stephanou Andreas 2026-10-09 07-07 Mathematics Test Revision Worksheet 1.md",
-    "Messages/edu portal/DONE/DONE Stephanou Andreas 2026-10-05 09-18 Regional Mathematics Competition Registration.md",
-    "Messages/edu portal/DONE/DONE Stephanou Andreas 2026-10-03 16-30 Maths material 2.4-2.5.md",
-    "Messages/edu portal/DONE/DONE Stephanou Andreas 2026-10-02 11-46 Maths lesson and homework.md",
-    "Messages/edu portal/DONE/DONE Stavrou Panayiotis 2026-10-08 17-38 Art materials reminder.md",
-    "Messages/edu portal/DONE/DONE Stavrou Panayiotis 2026-10-04 14-30 Trip lunch preferences.md",
-    "Messages/edu portal/DONE/DONE Stavrou Panayiotis 2026-09-28 00-05 Dialog Makar sick, absence.md",
-    "Messages/edu portal/DONE/DONE Stavrou Panayiotis 2026-09-13 09-16 Sketchbook payment at school.md",
-    "Messages/edu portal/DONE/DONE Stavrou Panayiotis 2026-09-11 19-03 Art introduction and materials list.md",
-    "Messages/edu portal/DONE/DONE Papaevripidou Maria 2026-10-08 16-51 Chapter 7Ad Cells and homework.md",
-    "Messages/edu portal/DONE/DONE Papaevripidou Maria 2026-09-16 15-26 Science homework workbook p3.md",
-    "Messages/edu portal/DONE/DONE Papaevripidou Maria 2026-09-14 22-08 Science book and workbook pages.md",
-    "Messages/edu portal/DONE/DONE Martidou Panny 2026-10-10 18-52 Env Science test Monday 12 Oct.md",
-    "Messages/edu portal/DONE/DONE Martidou Panny 2026-10-01 19-22 Homework diary, timetable, PE uniform.md",
-    "Messages/edu portal/DONE/DONE Martidou Panny 2026-09-30 23-11 Env Science Test 1 revision guide key.md",
-    "Messages/edu portal/DONE/DONE Martidou Panny 2026-09-25 14-02 Env Science book p6 and revision guide.md",
-    "Messages/mail/DONE",
-    "Messages/edu portal/DONE",
+    "Messages/edu portal/DONE/Stylianou Pavlos 2026-10-14 11-16 Global Perspectives test 16 Oct (resend).md",
+    "Messages/edu portal/DONE/Stylianou Pavlos 2026-10-14 11-15 Global Perspectives test 16 Oct.md",
+    "Messages/edu portal/DONE/Stephanou Andreas 2026-10-17 05-35 Mathematics Test Monday 19 Oct.md",
+    "Messages/edu portal/DONE/Papaevripidou Maria 2026-10-14 21-32 Science Test 21 Oct revision materials.md",
+    "Messages/edu portal/DONE/Martidou Panny 2026-10-15 10-30 Books order number to Ms Kyriacou.md",
+    "Messages/mail/DONE/2026-10-17 Stephanou Andreas - portal notification.md",
+    "Messages/mail/DONE/2026-10-16 GUEST SPEAKER FLYER.md",
+    "Messages/mail/DONE/2026-10-15 Books order.md",
+    "Messages/mail/DONE/2026-10-14 Stylianou Pavlos - portal notification.md",
+    "Messages/mail/DONE/2026-10-14 Papaevripidou Maria - portal notification.md",
+    "Messages/mail/DONE/2026-10-14 Official School Communication Procedure.md",
+    "Messages/mail/DONE/2026-10-14 BLOOD DONATION DRIVE & BONE MARROW REGISTRY - 10 NOVEMBER 2026.md",
+    "Messages/mail/DONE/2026-10-13 PSS Information regarding the PASS Survey – All Years.md",
+    "Messages/mail/DONE/2026-10-13 KIND REMINDER REGISTRATION PSS Club Handbook 2026.md",
+    "Messages/mail/DONE/2026-10-11 Re IMPORTANT UPDATES – BOOK ORDERS.md",
+    "Messages/edu portal/Papaevripidou Maria 2026-10-14 21-32 Science Test 21 Oct revision materials.md",
+    "Messages/edu portal/attachments/Revision_Guide_80min.pdf",
+    "Messages/edu portal/attachments/Class Notes.pdf",
+    "Messages/mail/2026-10-15 Books order.md",
+    "Messages/edu portal/attachments/y1_term1_Revision for test 1 26-27 solutions.pdf",
+    "Messages/mail/2026-10-17 Stephanou Andreas - portal notification.md",
+    "Messages/mail/2026-10-16 GUEST SPEAKER FLYER.md",
+    "Messages/mail/2026-10-15 Re Books order.md",
+    "Messages/mail/2026-10-11 Re IMPORTANT UPDATES – BOOK ORDERS.md",
+    "Messages/mail/2026-10-14 Official School Communication Procedure.md",
+    "22509401.md",
+    "Messages/mail/2026-10-14 Papaevripidou Maria - portal notification.md",
+    "Messages/mail/2026-10-14 BLOOD DONATION DRIVE & BONE MARROW REGISTRY - 10 NOVEMBER 2026.md",
+    "Messages/mail/2026-10-13 PSS Information regarding the PASS Survey – All Years.md",
+    "Messages/mail/attachments/1B (Class Teacher Panagiotis Stavrou).pdf",
+    "Messages/mail/attachments/1A (Class Teacher Eleni Nikolaou) Timetable.pdf",
+    "Messages/edu portal/attachments/y1_term1_Revision for test 1 26-27.pdf",
+    "Messages/mail/attachments/Swimming Lessons Schedule 2026.pdf",
+    "2026-10-11 PUBLIC/attachments/Important Notes for our Test - Covered in the class.docx",
+    "Messages/edu portal/attachments/Important Notes for our Test - Covered in the class.docx",
     "Resources",
-    "Messages/edu portal/STEPHANOU ANDREAS",
-    "Messages/edu portal/STAVROU PANAYIOTIS",
-    "Messages/edu portal/PAPAEVRIPIDOU MARIA",
-    "Messages/edu portal/MARTIDOU PANNY",
-    "Messages/edu portal/HILLIDES EMILIA",
-    "Messages/edu portal/ELIA MARINA",
-    "Messages/edu portal/CHRISTODOULIDOU THALIA",
     "Messages/mail/attachments/image004.png",
     "Messages/mail/attachments/image003.png",
     "Messages/mail/attachments/image002.png",
