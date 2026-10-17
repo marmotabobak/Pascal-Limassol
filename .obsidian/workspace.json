@@ -11,12 +11,14 @@
             "id": "4d6526d680a89cca",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Messages/edu portal/attachments/Student_Test_Syllabus.pdf"
+                "file": "2026-10-17 KNOWLEDGE BASE/01 School Overview & Contacts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Student_Test_Syllabus"
+              "icon": "lucide-file",
+              "title": "01 School Overview & Contacts"
             }
           }
         ]
@@ -180,6 +182,7 @@
   },
   "active": "9b9f50c45a40a0f6",
   "lastOpenFiles": [
+    "Messages/edu portal/attachments/Student_Test_Syllabus.pdf",
     "Messages/edu portal/DONE/Stylianou Pavlos 2026-10-14 11-16 Global Perspectives test 16 Oct (resend).md",
     "Messages/edu portal/DONE/Stylianou Pavlos 2026-10-14 11-15 Global Perspectives test 16 Oct.md",
     "Messages/edu portal/DONE/Stephanou Andreas 2026-10-17 05-35 Mathematics Test Monday 19 Oct.md",
@@ -208,7 +211,6 @@
     "22509401.md",
     "Messages/mail/2026-10-14 Papaevripidou Maria - portal notification.md",
     "Messages/mail/2026-10-14 BLOOD DONATION DRIVE & BONE MARROW REGISTRY - 10 NOVEMBER 2026.md",
-    "Messages/mail/2026-10-13 PSS Information regarding the PASS Survey – All Years.md",
     "Messages/mail/attachments/1B (Class Teacher Panagiotis Stavrou).pdf",
     "Messages/mail/attachments/1A (Class Teacher Eleni Nikolaou) Timetable.pdf",
     "Messages/edu portal/attachments/y1_term1_Revision for test 1 26-27.pdf",

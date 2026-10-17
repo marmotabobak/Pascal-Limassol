@@ -63,7 +63,7 @@ updated: 2026-10-17
 | **POSEIDON** | ΠΛΑΤΩΝΑΣ (Plato) | Theodoros Constantinou (House Master) | Omiros Miltiadous; Maria Papaevripidou |
 | **DEMETRA** | ΙΠΠΟΚΡΑΤΗΣ (Hippocrates) | Ephie Christodoulides (House Mistress) | Clara Batah; Elisavet Savva |
 
-**House Coordinator:** Marina Elia. Существуют футболки Houses (цвета по каталогу формы: зелёный, красный, тёмно-синий, жёлтый) — цена в [[06 Rules, Uniform & Lockers]]. *House самого Макара пока не указан ни в одном документе — уточнить у Form Teacher (классного руководителя) (открытый вопрос в [[17 Open Items, Deadlines & Action Tracker]]).*
+**House Coordinator:** Marina Elia. Существуют футболки Houses (цвета по каталогу формы: зелёный, красный, тёмно-синий, жёлтый) — цена в [[06 Rules, Uniform & Lockers]]. **House Макара — Apollo** (в паре с Pheidias; со слов Игоря, 17 окт; в письмах школы не указан).
 
 ## 6. Heads of Year (PSS)
 Year 1 – Panny Martidou · Year 2 – Elena Aristidou · Year 3 – Fotini Michaeloude · Year 4 – Rafaella Vafea · Year 5 – Varvara Raouna · Year 6 – Chrysis Kleovoulou. Полный список сотрудников — в [[05 Staff Directory]].

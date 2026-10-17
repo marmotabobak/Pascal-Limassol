@@ -23,7 +23,7 @@ updated: 2026-10-11
 | Физкультура (PE) | Christos Savva (1A, 1B) | |
 | Музыка | Omiros Miltiadous (Years 1–3) | Deputy House Master (Poseidon & Platonas) |
 | Новогреческий (Year 1) | Skevi Adamou | Assistant Head Teacher – SENDCo |
-| GFL (Year 1) | Группы 1–5: Rafaella Poliniki (G1), Artemis Anastasiadou (G2), Amalia Koutsiou (G3), Ioanna Katsoulotou (G4), Georgia Charalambus (G5) | Группа Makar: неизвестна |
+| GFL (Year 1) | Группы 1–5: Rafaella Poliniki (G1), Artemis Anastasiadou (G2), Amalia Koutsiou (G3), Ioanna Katsoulotou (G4), Georgia Charalambus (G5) | **Группа Makar: Beginners, Anastasiadou (G2)** — со слов Игоря, 17 окт |
 | Classical Appreciation (Y1) | Ifigenia Chrysanthou | |
 | Religious Knowledge (Y1) | Andreas Konstantinou | |
 | RS / Global Perspectives (Y1) | Despina Pieri (Educational Advisor), Varvara Raouna (также Drama в 1A/1C/1D; Head of Year 5), Maria Zinonos, Valentinos Mouzouras (Deputy House Master Apollo & Pheidias), Evangelia Christoforou | |
