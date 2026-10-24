@@ -4,6 +4,19 @@
 
 | datetime | source | topic | link |
 |---|---|---|---|
+| 2026-10-24 | portal (Useful documents) | INVITATION – celebration of 28 October 1940 anniversary (Tuesday 27 Oct 2026, 11:15) | [[Messages/edu portal/attachments/INVITATION 28 October Celebration.pdf\|open]] |
+| 2026-10-24 17:45:49 | portal | English Literature (Mavrada): test Friday 13 November – syllabus, revision, presentations | [[Messages/edu portal/DONE/Mavrada Sophia 2026-10-24 17-45 Literature Test 13 November\|open]] |
+| 2026-10-24 14:46:42 | mail | Message notification – Literature Test 13 November (Mavrada) | [[Messages/mail/DONE/2026-10-24 Mavrada Sophia - portal notification\|open]] |
+| 2026-10-23 20:48:10 | portal | First Mathematics test marked and returned – parents to sign and return | [[Messages/edu portal/DONE/Stephanou Andreas 2026-10-23 20-48 First Mathematics test marked - sign and return\|open]] |
+| 2026-10-23 17:49:14 | mail | Message notification – Mathematics test returned (Stephanou) | [[Messages/mail/DONE/2026-10-23 Stephanou Andreas - portal notification\|open]] |
+| 2026-10-23 09:07:28 | portal | Drama (Hillides): separate notebooks for each subject | [[Messages/edu portal/DONE/Hillides Emilia 2026-10-23 09-07 Separate notebooks for each subject\|open]] |
+| 2026-10-23 09:04:09 | portal | Drama (Hillides): read the play "Forgetting" p.13 | [[Messages/edu portal/DONE/Hillides Emilia 2026-10-23 09-04 Drama read Forgetting p13\|open]] |
+| 2026-10-23 06:05:27 | mail | Message notifications – Drama (Hillides, 2 сообщения) | [[Messages/mail/DONE/2026-10-23 Hillides Emilia - portal notification\|open]] |
+| 2026-10-22 16:41:08 | portal | Greek (Anastasiadou): first test 29 October – syllabus, revision handout, solutions | [[Messages/edu portal/DONE/Anastasiadou Artemis 2026-10-22 16-41 Greek test 29 October\|open]] |
+| 2026-10-22 13:42:59 | mail | Ειδοποίηση μηνύματος – Greek test 29 October (Anastasiadou) | [[Messages/mail/DONE/2026-10-22 Anastasiadou Artemis - portal notification\|open]] |
+| 2026-10-21 10:56:49 | portal | History (Aristidou): pages 18–21, handout, checkpoint p.21 | [[Messages/edu portal/DONE/Aristidou Elena 2026-10-21 10-56 History pages 18-21 and handout\|open]] |
+| 2026-10-21 07:57:39 | mail | Message notification – History pages 18–21 (Aristidou) | [[Messages/mail/DONE/2026-10-21 Aristidou Elena - portal notification\|open]] |
+| 2026-10-20 06:50:01 | mail | PSS NEWSLETTER (сентябрь 2026, вложение NEWSLETTER .pdf) | [[Messages/mail/DONE/2026-10-20 PSS NEWSLETTER\|open]] |
 | 2026-10-17 05:35:10 | portal | Mathematics Test – Monday 19 October (solutions to revision worksheet) | [[Messages/edu portal/DONE/Stephanou Andreas 2026-10-17 05-35 Mathematics Test Monday 19 Oct\|open]] |
 | 2026-10-17 02:36:29 | mail | Message notification – Mathematics Test Monday 19 October (Stephanou) | [[Messages/mail/DONE/2026-10-17 Stephanou Andreas - portal notification\|open]] |
 | 2026-10-16 07:28:23 | mail | GUEST SPEAKER FLYER – parents' presentation 21 October | [[Messages/mail/DONE/2026-10-16 GUEST SPEAKER FLYER\|open]] |
@@ -19,6 +32,7 @@
 | 2026-10-13 14:36:19 | mail | PSS Information regarding the PASS Survey – All Years | [[Messages/mail/DONE/2026-10-13 PSS Information regarding the PASS Survey – All Years\|open]] |
 | 2026-10-13 11:13:47 | mail | KIND REMINDER REGISTRATION PSS Club Handbook 2026 (extended to 16 Oct) | [[Messages/mail/DONE/2026-10-13 KIND REMINDER REGISTRATION PSS Club Handbook 2026\|open]] |
 | 2026-10-12 09:15:55 | mail | Re: IMPORTANT UPDATES – BOOK ORDERS (переписка из 4 писем, 11–12 окт: недостающая книга) | [[Messages/mail/DONE/2026-10-11 Re IMPORTANT UPDATES – BOOK ORDERS\|open]] |
+| 2026-10-12 07:14:08 | portal | ICT test 22/10/2026 – reminder (Gibbs; поздно добавлено) | [[Messages/edu portal/DONE/Gibbs Maria 2026-10-12 07-14 ICT test 22 Oct reminder\|open]] |
 | 2026-10-11 17:07:15 | portal | History test 14 October – notes covered in class | [[Messages/edu portal/DONE/Aristidou Elena 2026-10-11 17-07 History test 14 Oct notes covered in class\|open]] |
 | 2026-10-10 18:52:46 | portal | Environmental Science test – Monday 12/10/26 | [[Messages/edu portal/DONE/Martidou Panny 2026-10-10 18-52 Env Science test Monday 12 Oct\|open]] |
 | 2026-10-09 12:33:19 | portal | Maths lesson and homework (Ch 2.6) | [[Messages/edu portal/DONE/Stephanou Andreas 2026-10-09 12-33 Maths lesson and homework (Ch 2.6)\|open]] |
